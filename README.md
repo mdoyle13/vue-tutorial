@@ -1,4 +1,4 @@
-# hello-world
+# Vue Tutorial 1
 
 ## Project setup
 ```
